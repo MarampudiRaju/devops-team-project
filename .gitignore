@@ -1,0 +1,5 @@
+*.log
+*.tmp
+password.txt
+secret.txt
+logs/
